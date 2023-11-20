@@ -1,7 +1,10 @@
 <div align="left">
   
 <h1>Who am I ?</h1>
-  
+
+소개
+<br>
+안녕하세요 BackEnd 개발자 꿈나무 박성준 입니다.
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSungJunPark&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/SungJunP)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SungJunP&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/SungJunP/github-readme-stats)
