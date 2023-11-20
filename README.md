@@ -1,4 +1,7 @@
 <div align="left">
+
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSungJunPark&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/SungJunP)
+
   
 <h1>Who am I ?</h1>
 
@@ -7,11 +10,6 @@
 안녕하세요 BackEnd 개발자 꿈나무 박성준 입니다.
 
 <br>
-
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSungJunPark&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/SungJunP)
-
-<br>
-
     
 ## 💻 Tech Stacks 💻
 <div style="display:flex; flex-direction:row;">
